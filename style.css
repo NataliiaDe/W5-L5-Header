@@ -17,6 +17,9 @@
     color: #272142;
 }
 
+.justify-content-between {
+    justify-content: space-between!important;
+}
 
 h1{
     font-size: 96px;
