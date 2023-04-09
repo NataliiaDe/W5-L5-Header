@@ -11,6 +11,12 @@ nav {
     padding: 20px 0;
 }
 
+nav a {
+    text-decoration: none;
+    color: #272142;
+    transition: all 100ms ease-in-out;
+}
+
 .portfolio p {
     
     font-family:"Poppins", sans-serif ;
